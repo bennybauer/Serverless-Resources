@@ -1,6 +1,10 @@
 # Serverless-Resources
 Curated list of Serverless goodies. Obviuosly it's not a complete list, more of a memoir of things I've came across.
 
+## Serverless Overview
+- [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (Martin Fowler's blog)
+- [Serverlessconf Shows the Future of Computing](https://read.acloud.guru/serverlessconf-shows-the-future-of-computing-61820c1cea5e)
+
 ## Ecosystem
 - [Serverless Framework](www.serverless.com) - Application framework for building web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the future other [Function as a Service](https://twitter.com/marak/status/736357543598002176) providers.
 - [Apex](http://apex.run/) -  Application framework which enables using languages that are not natively supported by AWS Lambda, through the use of a Node.js shim injected into the build.
