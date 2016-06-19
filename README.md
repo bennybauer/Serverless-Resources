@@ -13,9 +13,9 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 
 ## Best Practices
 - [A Few Serverless “Rules of Thumb” (May 2016)](https://medium.com/@PaulDJohnston/a-few-serverless-rules-of-thumb-309764281921#.f4iwhspgh):
- - 0-1 data transformations per function
- - Minimise library usage
- - Invest in logging
+
+### Python
+- [Serverless Framework with Python](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/) ([code](https://github.com/alexcasalboni/serverless-starter-python))
 
 ## More curated lists
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
