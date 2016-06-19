@@ -4,12 +4,14 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 ## Serverless Overview
 - [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (Martin Fowler's blog)
 - [Serverlessconf Shows the Future of Computing](https://read.acloud.guru/serverlessconf-shows-the-future-of-computing-61820c1cea5e)
+- [ServerlessConf slides](http://www.slideshare.net/ServerlessConf)
 
 ## Ecosystem
 ### Frameworks
 - [Serverless Framework](www.serverless.com) - Application framework for building web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the future other [Function as a Service](https://twitter.com/marak/status/736357543598002176) providers.
 - [Apex](http://apex.run/) -  Application framework which enables using languages that are not natively supported by AWS Lambda, through the use of a Node.js shim injected into the build.
 - [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda. 
+- [IOPipe](https://www.iopipe.com/) - A toolkit for building and orchestrating event-driven and serverless applications. Allows the chaining of web service / HTTP requests, local functions, and kernels (portable javascript snippets).
 
 ### Service Providers
 - [Stamplay](https://stamplay.com/) - Backend as a Service (auth, db, hosting) + Function as a Service + [integrations](https://stamplay.com/features/integrations) to 3rd party APIs
