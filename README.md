@@ -9,6 +9,7 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 - [Serverless Framework](www.serverless.com) - Application framework for building web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the future other [Function as a Service](https://twitter.com/marak/status/736357543598002176) providers.
 - [Apex](http://apex.run/) -  Application framework which enables using languages that are not natively supported by AWS Lambda, through the use of a Node.js shim injected into the build.
 - [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda. 
+- [Stamplay](https://stamplay.com/) - Backend as a Service (auth, db, hosting) + Function as a Service + [integrations](https://stamplay.com/features/integrations) to 3rd party APIs
 
 ## Best Practices
 - [A Few Serverless “Rules of Thumb” (May 2016)](https://medium.com/@PaulDJohnston/a-few-serverless-rules-of-thumb-309764281921#.f4iwhspgh):
