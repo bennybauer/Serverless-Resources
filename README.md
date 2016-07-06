@@ -5,6 +5,7 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 - [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (Martin Fowler's blog)
 - [Serverlessconf Shows the Future of Computing](https://read.acloud.guru/serverlessconf-shows-the-future-of-computing-61820c1cea5e)
 - [ServerlessConf slides](http://www.slideshare.net/ServerlessConf)
+- [Introduction to the Serverless Paradigm (video by Cloud Academy)](https://www.youtube.com/watch?v=pvmx0IVfBLc)
 
 ## Ecosystem
 ### Frameworks
