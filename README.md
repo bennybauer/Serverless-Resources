@@ -21,6 +21,8 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 
 ### Tools
 - [Serverless Cost Calculator](http://serverlesscalc.com/)
+ 
+
 ## Best Practices
 - [A Few Serverless “Rules of Thumb” (May 2016)](https://medium.com/@PaulDJohnston/a-few-serverless-rules-of-thumb-309764281921#.f4iwhspgh):
 
