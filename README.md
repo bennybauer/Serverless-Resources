@@ -2,7 +2,7 @@
 Curated list of Serverless goodies. Obviuosly it's not a complete list, more of a memoir of things I've came across.
 
 ## Serverless Overview
-- [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (Martin Fowler's blog)
+- [Serverless Architectures](http://martinfowler.com/articles/serverless.html) (by [Mike Roberts](https://twitter.com/mikebroberts), Martin Fowler's blog)
 - [Serverlessconf Shows the Future of Computing](https://read.acloud.guru/serverlessconf-shows-the-future-of-computing-61820c1cea5e)
 - [ServerlessConf slides](http://www.slideshare.net/ServerlessConf)
 - [Introduction to the Serverless Paradigm](https://www.youtube.com/watch?v=pvmx0IVfBLc) (video by Cloud Academy)
@@ -31,5 +31,5 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 
 ## More
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
-- [Awesome Serverless (Framework)](https://github.com/JustServerless/awesome-serverless)
+- [Awesome Serverless Framework](https://github.com/JustServerless/awesome-serverless)
  
