@@ -9,7 +9,7 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 
 ## Ecosystem
 ### Frameworks
-- [Serverless Framework](www.serverless.com) - Application framework for building web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the future other [Function as a Service](https://twitter.com/marak/status/736357543598002176) providers.
+- [Serverless Framework](http://www.serverless.com) - Application framework for building web, mobile and IoT applications powered by AWS Lambda, AWS API Gateway and in the future other [Function as a Service](https://twitter.com/marak/status/736357543598002176) providers.
 - [Apex](http://apex.run/) -  Application framework which enables using languages that are not natively supported by AWS Lambda, through the use of a Node.js shim injected into the build.
 - [Chalice](https://github.com/awslabs/chalice) - A Python framework for AWS Lambda (**by AWS**).
 - [Sparta](http://gosparta.io/) - A Go framework for AWS Lambda. 
@@ -31,5 +31,6 @@ Curated list of Serverless goodies. Obviuosly it's not a complete list, more of 
 
 ## More
 - [Awesome Serverless](https://github.com/anaibol/awesome-serverless)
+- [Serverless Heroes](https://github.com/ServerlessHeroes/serverless-resources)
 - [Awesome Serverless Framework](https://github.com/JustServerless/awesome-serverless)
  
